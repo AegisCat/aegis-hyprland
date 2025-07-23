@@ -12,8 +12,6 @@ Terminal - Kitty
 Bar - Waybar
 
 ## Screenshots
-![ss1](https://github.com/AegisCat/dotfiles-hyprland-arch-2/blob/main/250113_00h37m04s_screenshot.png)
-![ss2](https://github.com/AegisCat/dotfiles-hyprland-arch-2/blob/main/250113_00h37m46s_screenshot.png)
 
 ## Install Guide
 
