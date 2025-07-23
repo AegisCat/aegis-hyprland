@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Vesktop (Wayland + VAAPI)
+Exec=vesktop --ozone-platform=wayland --enable-features=WebRTCPipeWireCapturer,VaapiVideoEncoder --ignore-gpu-blocklist
+Icon=vesktop
+Type=Application
+StartupWMClass=Vesktop
+Categories=Network;Chat;
+

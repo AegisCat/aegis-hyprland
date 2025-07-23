@@ -1,0 +1,424 @@
+Video
+  Driver: OpenGL 3.2
+  Monitor: Primary
+  Format: ARGB24
+  Exclusive: false
+  Blocking: false
+  PresentSRGB: false
+  ThreadedRenderer: true
+  NativeFullScreen: false
+  Flush: true
+  Shader: nearest.slangp
+  Multiplier: 5
+  Output: Scale
+  AspectCorrection: true
+  AdaptiveSizing: true
+  AutoCentering: false
+  Luminance: 1.0
+  Saturation: 1.0
+  Gamma: 1.0
+  ColorBleed: false
+  ColorEmulation: false
+  DeepBlackBoost: false
+  InterframeBlending: false
+  Overscan: false
+  PixelAccuracy: false
+  Quality: HD
+  Supersampling: false
+  DisableVideoInterfaceProcessing: true
+  WeaveDeinterlacing: false
+Audio
+  Driver: ALSA
+  Device: pipewire
+  Frequency: 48000
+  Latency: 40
+  Exclusive: false
+  Blocking: true
+  Dynamic: false
+  Mute: false
+  Volume: 0.04
+  Balance: 0.0
+Input
+  Driver: SDL
+  Defocus: Allow
+Boot
+  Fast: false
+  Debugger: false
+  Prefer: NTSC-U
+General
+  ShowStatusBar: true
+  Rewind: true
+  RunAhead: false
+  AutoSaveMemory: true
+  HomebrewMode: false
+  ForceInterpreter: false
+Rewind
+  Length: 100
+  Frequency: 10
+Paths
+  Home
+  Firmware
+  Saves
+  Screenshots
+  Debugging
+  ArcadeRoms
+  SuperFamicom
+    GameBoy
+    BSMemory
+    SufamiTurbo
+DebugServer
+  Port: 9123
+  Enabled: true
+  UseIPv4: true
+Nintendo64
+  ExpansionPak: true
+  ControllerPakBankString: 32KiB (Default)
+  Visible: true
+  Path: /home/aegis/Documents/ootmm/OoTMM-VjyuKK7L/
+GameBoyAdvance
+  Player: false
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+MegaDrive
+  TMSS: false
+  Visible: true
+  Path
+Recent
+  Game-1: Nintendo 64;/home/aegis/Documents/ootmm/OoTMM-VjyuKK7L/OoTMM-VjyuKK7L.z64
+  Game-2: Nintendo 64;/home/aegis/Documents/ootmm/OoTMM-VjyuKK7L-sean/OoTMM-VjyuKK7L.z64
+  Game-3
+  Game-4
+  Game-5
+  Game-6
+  Game-7
+  Game-8
+  Game-9
+VirtualPad1
+  Pad.Up: 0x300791846/1/1/Lo;;
+  Pad.Down: 0x300791846/1/1/Hi;;
+  Pad.Left: 0x300791846/1/0/Lo;;
+  Pad.Right: 0x300791846/1/0/Hi;;
+  Select: ;;
+  Start: 0x300791846/3/9;;
+  A..South: 0x300791846/3/1;;
+  B..East: ;;
+  X..West: 0x300791846/3/2;;
+  Y..North: ;;
+  L-Bumper: 0x300791846/3/7;;
+  R-Bumper: 0x300791846/0/4/Hi;;
+  L-Trigger: ;;
+  R-Trigger: 0x300791846/0/3/Hi;;
+  L-Stick..Click: ;;
+  R-Stick..Click: ;;
+  L-Up: 0x300791846/0/1/Lo;;
+  L-Down: 0x300791846/0/1/Hi;;
+  L-Left: 0x300791846/0/0/Lo;;
+  L-Right: 0x300791846/0/0/Hi;;
+  R-Up: 0x300791846/0/2/Hi;;
+  R-Down: 0x300791846/0/2/Lo;;
+  R-Left: 0x300791846/0/5/Hi;;
+  R-Right: 0x300791846/0/5/Lo;;
+  Rumble: ;;
+VirtualMouse1
+  X: ;;
+  Y: ;;
+  Left: ;;
+  Middle: ;;
+  Right: ;;
+  Extra: ;;
+VirtualPad2
+  Pad.Up: ;;
+  Pad.Down: ;;
+  Pad.Left: ;;
+  Pad.Right: ;;
+  Select: ;;
+  Start: ;;
+  A..South: ;;
+  B..East: ;;
+  X..West: ;;
+  Y..North: ;;
+  L-Bumper: ;;
+  R-Bumper: ;;
+  L-Trigger: ;;
+  R-Trigger: ;;
+  L-Stick..Click: ;;
+  R-Stick..Click: ;;
+  L-Up: ;;
+  L-Down: ;;
+  L-Left: ;;
+  L-Right: ;;
+  R-Up: ;;
+  R-Down: ;;
+  R-Left: ;;
+  R-Right: ;;
+  Rumble: ;;
+VirtualMouse2
+  X: ;;
+  Y: ;;
+  Left: ;;
+  Middle: ;;
+  Right: ;;
+  Extra: ;;
+VirtualPad3
+  Pad.Up: ;;
+  Pad.Down: ;;
+  Pad.Left: ;;
+  Pad.Right: ;;
+  Select: ;;
+  Start: ;;
+  A..South: ;;
+  B..East: ;;
+  X..West: ;;
+  Y..North: ;;
+  L-Bumper: ;;
+  R-Bumper: ;;
+  L-Trigger: ;;
+  R-Trigger: ;;
+  L-Stick..Click: ;;
+  R-Stick..Click: ;;
+  L-Up: ;;
+  L-Down: ;;
+  L-Left: ;;
+  L-Right: ;;
+  R-Up: ;;
+  R-Down: ;;
+  R-Left: ;;
+  R-Right: ;;
+  Rumble: ;;
+VirtualMouse3
+  X: ;;
+  Y: ;;
+  Left: ;;
+  Middle: ;;
+  Right: ;;
+  Extra: ;;
+VirtualPad4
+  Pad.Up: ;;
+  Pad.Down: ;;
+  Pad.Left: ;;
+  Pad.Right: ;;
+  Select: ;;
+  Start: ;;
+  A..South: ;;
+  B..East: ;;
+  X..West: ;;
+  Y..North: ;;
+  L-Bumper: ;;
+  R-Bumper: ;;
+  L-Trigger: ;;
+  R-Trigger: ;;
+  L-Stick..Click: ;;
+  R-Stick..Click: ;;
+  L-Up: ;;
+  L-Down: ;;
+  L-Left: ;;
+  L-Right: ;;
+  R-Up: ;;
+  R-Down: ;;
+  R-Left: ;;
+  R-Right: ;;
+  Rumble: ;;
+VirtualMouse4
+  X: ;;
+  Y: ;;
+  Left: ;;
+  Middle: ;;
+  Right: ;;
+  Extra: ;;
+VirtualPad5
+  Pad.Up: ;;
+  Pad.Down: ;;
+  Pad.Left: ;;
+  Pad.Right: ;;
+  Select: ;;
+  Start: ;;
+  A..South: ;;
+  B..East: ;;
+  X..West: ;;
+  Y..North: ;;
+  L-Bumper: ;;
+  R-Bumper: ;;
+  L-Trigger: ;;
+  R-Trigger: ;;
+  L-Stick..Click: ;;
+  R-Stick..Click: ;;
+  L-Up: ;;
+  L-Down: ;;
+  L-Left: ;;
+  L-Right: ;;
+  R-Up: ;;
+  R-Down: ;;
+  R-Left: ;;
+  R-Right: ;;
+  Rumble: ;;
+VirtualMouse5
+  X: ;;
+  Y: ;;
+  Left: ;;
+  Middle: ;;
+  Right: ;;
+  Extra: ;;
+Hotkey
+  ToggleFullscreen: ;;
+  TogglePseudo-Fullscreen: ;;
+  ToggleMouseCapture: ;;
+  ToggleKeyboardCapture: ;;
+  FastForward: ;;
+  ToggleFastForward: ;;
+  Rewind: 0x1/0/7;;
+  FrameAdvance: ;;
+  CaptureScreenshot: ;;
+  SaveState: 0x1/0/5;;
+  LoadState: 0x1/0/6;;
+  DecrementStateSlot: ;;
+  IncrementStateSlot: ;;
+  PauseEmulation: ;;
+  ResetSystem: ;;
+  ReloadCurrentGame: ;;
+  QuitEmulator: ;;
+  MuteAudio: ;;
+  IncreaseAudio: ;;
+  DecreaseAudio: ;;
+Arcade
+  Visible: true
+  Path
+Atari2600
+  Visible: true
+  Path
+WonderSwan
+  Visible: true
+  Path
+WonderSwanColor
+  Visible: true
+  Path
+PocketChallengeV2
+  Visible: true
+  Path
+ColecoVision
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+MyVision
+  Visible: true
+  Path
+MSX
+  Visible: true
+  Path
+  Firmware
+    BIOS.Japan
+MSX2
+  Visible: true
+  Path
+  Firmware
+    MAIN.Japan
+    SUB.Japan
+PCEngine
+  Visible: true
+  Path
+PCEngineCD
+  Visible: true
+  Path
+  Firmware
+    System-Card-1.0.Japan
+    Arcade-Card.Japan
+    System-Card-3.0.US
+    Games-Express.Japan
+SuperGrafx
+  Visible: true
+  Path
+SuperGrafxCD
+  Visible: true
+  Path
+  Firmware
+    Arcade-Card.Japan
+Famicom
+  Visible: true
+  Path
+FamicomDiskSystem
+  Visible: true
+  Path
+  Firmware
+    BIOS.Japan
+SuperFamicom
+  Visible: true
+  Path
+Nintendo64DD
+  Visible: true
+  Path
+  Firmware
+    BIOS.Japan
+    BIOS.US
+    BIOS.DEV
+GameBoy
+  Visible: true
+  Path
+GameBoyColor
+  Visible: true
+  Path
+SG-1000
+  Visible: true
+  Path
+SC-3000
+  Visible: true
+  Path
+MasterSystem
+  Visible: true
+  Path
+  Firmware
+    BIOS.US
+    BIOS.Japan
+    BIOS.Europe
+GameGear
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+Mega32X
+  Visible: true
+  Path
+MegaCD
+  Visible: true
+  Path
+  Firmware
+    BIOS.US
+    BIOS.Japan
+    BIOS.Europe
+MegaCD32X
+  Visible: true
+  Path
+NeoGeoAES
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+NeoGeoMVS
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+NeoGeoPocket
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+NeoGeoPocketColor
+  Visible: true
+  Path
+  Firmware
+    BIOS.World
+PlayStation
+  Visible: true
+  Path
+  Firmware
+    BIOS.US
+    BIOS.Japan
+    BIOS.Europe
+ZXSpectrum
+  Visible: true
+  Path
+ZXSpectrum128
+  Visible: true
+  Path

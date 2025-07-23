@@ -1,0 +1,80 @@
+[gd_resource type="EditorSettings" load_steps=2 format=3]
+
+[sub_resource type="InputEventKey" id="InputEventKey_cddw6"]
+keycode = 4194326
+
+[resource]
+interface/theme/preset = "Custom"
+interface/theme/base_color = Color(0.117647, 0.117647, 0.180392, 1)
+interface/theme/accent_color = Color(0.705882, 0.745098, 0.996078, 1)
+interface/theme/contrast = 0.2
+interface/theme/draw_extra_borders = true
+interface/theme/icon_saturation = 0.6
+text_editor/theme/color_theme = "Catppuccin-Mocha"
+text_editor/theme/highlighting/symbol_color = Color(0.537255, 0.862745, 0.921569, 1)
+text_editor/theme/highlighting/keyword_color = Color(0.796078, 0.65098, 0.968627, 1)
+text_editor/theme/highlighting/control_flow_keyword_color = Color(0.796078, 0.65098, 0.968627, 1)
+text_editor/theme/highlighting/base_type_color = Color(0.976471, 0.886275, 0.686275, 1)
+text_editor/theme/highlighting/engine_type_color = Color(0.976471, 0.886275, 0.686275, 1)
+text_editor/theme/highlighting/user_type_color = Color(0.976471, 0.886275, 0.686275, 1)
+text_editor/theme/highlighting/comment_color = Color(0.423529, 0.439216, 0.52549, 1)
+text_editor/theme/highlighting/string_color = Color(0.65098, 0.890196, 0.631373, 1)
+text_editor/theme/highlighting/background_color = Color(0.117647, 0.117647, 0.180392, 1)
+text_editor/theme/highlighting/completion_background_color = Color(0.0941176, 0.0941176, 0.145098, 1)
+text_editor/theme/highlighting/completion_selected_color = Color(0.192157, 0.196078, 0.266667, 1)
+text_editor/theme/highlighting/completion_existing_color = Color(0.796078, 0.65098, 0.968627, 0.129412)
+text_editor/theme/highlighting/completion_scroll_color = Color(0.192157, 0.196078, 0.266667, 1)
+text_editor/theme/highlighting/completion_scroll_hovered_color = Color(0.270588, 0.278431, 0.352941, 1)
+text_editor/theme/highlighting/completion_font_color = Color(0.803922, 0.839216, 0.956863, 1)
+text_editor/theme/highlighting/text_color = Color(0.803922, 0.839216, 0.956863, 1)
+text_editor/theme/highlighting/line_number_color = Color(0.498039, 0.517647, 0.611765, 1)
+text_editor/theme/highlighting/safe_line_number_color = Color(0.65098, 0.890196, 0.631373, 1)
+text_editor/theme/highlighting/caret_color = Color(0.960784, 0.878431, 0.862745, 1)
+text_editor/theme/highlighting/text_selected_color = Color(0.803922, 0.839216, 0.956863, 1)
+text_editor/theme/highlighting/selection_color = Color(0.345098, 0.356863, 0.439216, 1)
+text_editor/theme/highlighting/brace_mismatch_color = Color(0.952941, 0.545098, 0.658824, 1)
+text_editor/theme/highlighting/current_line_color = Color(0.803922, 0.839216, 0.956863, 0.0627451)
+text_editor/theme/highlighting/line_length_guideline_color = Color(0.192157, 0.196078, 0.266667, 1)
+text_editor/theme/highlighting/word_highlighted_color = Color(0.345098, 0.356863, 0.439216, 1)
+text_editor/theme/highlighting/number_color = Color(0.980392, 0.701961, 0.529412, 1)
+text_editor/theme/highlighting/function_color = Color(0.537255, 0.705882, 0.980392, 1)
+text_editor/theme/highlighting/member_variable_color = Color(0.705882, 0.745098, 0.996078, 1)
+text_editor/theme/highlighting/mark_color = Color(0.952941, 0.545098, 0.658824, 0.219608)
+text_editor/theme/highlighting/bookmark_color = Color(0.537255, 0.705882, 0.980392, 1)
+text_editor/theme/highlighting/breakpoint_color = Color(0.952941, 0.545098, 0.658824, 1)
+text_editor/theme/highlighting/executing_line_color = Color(0.976471, 0.886275, 0.686275, 1)
+text_editor/theme/highlighting/code_folding_color = Color(0.498039, 0.517647, 0.611765, 1)
+text_editor/theme/highlighting/search_result_color = Color(0.345098, 0.356863, 0.439216, 1)
+text_editor/theme/highlighting/search_result_border_color = Color(0, 0, 0, 0)
+editors/3d_gizmos/gizmo_settings/bone_axis_length = 0.1
+export/android/debug_keystore = "/home/aegis/.local/share/godot/keystores/debug.keystore"
+export/android/debug_keystore_pass = "android"
+export/android/java_sdk_path = ""
+export/android/android_sdk_path = "/home/aegis/Android/Sdk"
+export/macos/rcodesign = ""
+export/web/http_port = 8060
+export/web/tls_key = ""
+export/web/tls_certificate = ""
+export/windows/rcedit = ""
+export/windows/osslsigncode = ""
+export/windows/wine = ""
+_editor_settings_advanced_mode = true
+_project_settings_advanced_mode = false
+_export_template_download_directory = ""
+_default_feature_profile = ""
+_script_setup_templates_dictionary = {}
+_use_favorites_root_selection = false
+text_editor/theme/highlighting/gdscript/function_definition_color = Color(0.537255, 0.705882, 0.980392, 1)
+text_editor/theme/highlighting/gdscript/global_function_color = Color(0.952941, 0.545098, 0.658824, 1)
+text_editor/theme/highlighting/gdscript/node_path_color = Color(0.580392, 0.886275, 0.835294, 1)
+text_editor/theme/highlighting/gdscript/node_reference_color = Color(0.580392, 0.886275, 0.835294, 1)
+text_editor/theme/highlighting/gdscript/annotation_color = Color(0.980392, 0.701961, 0.529412, 1)
+text_editor/theme/highlighting/gdscript/string_name_color = Color(0.803922, 0.839216, 0.956863, 1)
+_script_setup_use_script_templates = false
+shortcuts = [{
+"name": "spatial_editor/viewport_zoom_modifier_1",
+"shortcuts": [SubResource("InputEventKey_cddw6")]
+}, {
+"name": "spatial_editor/viewport_zoom_modifier_2",
+"shortcuts": []
+}]

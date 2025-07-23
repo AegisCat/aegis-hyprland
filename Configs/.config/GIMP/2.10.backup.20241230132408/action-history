@@ -1,0 +1,14 @@
+# GIMP action-history
+
+(history-item "tools-opacity-increase" 3)
+(history-item "layers-mask-add" 4)
+(history-item "tools-opacity-decrease" 1)
+(history-item "edit-paste" 0)
+(history-item "layers-new" 0)
+(history-item "file-overwrite" 1)
+(history-item "layers-mask-apply" 0)
+(history-item "layers-edit" 0)
+(history-item "file-export-as" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

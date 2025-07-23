@@ -1,0 +1,43 @@
+================================================================================
+SESSION: 02 Jul 2025 17:31:01 -0600. Executing krita
+
+Krita Version: 5.2.9, Qt version compiled: 5.15.16, loaded: 5.15.17. Process ID: 520345
+-- -- -- -- -- -- -- --
+02 Jul 2025 17:31:01 -0600: Style: fusion. Available styles: kvantum-dark, kvantum, qt5ct-style, Windows, Fusion
+02 Jul 2025 17:31:02 -0600: Creating database from scratch (database didn't exist, new schema version: 0.0.17).
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+SESSION: 02 Jul 2025 17:36:16 -0600. Executing krita
+
+Krita Version: 5.2.9, Qt version compiled: 5.15.16, loaded: 5.15.17. Process ID: 524665
+-- -- -- -- -- -- -- --
+02 Jul 2025 17:36:16 -0600: Style: fusion. Available styles: kvantum-dark, kvantum, qt5ct-style, Windows, Fusion
+-0600: CLOSING SESSION
+02 Jul 2025 17:36:18 -0600: CLOSING SESSION
+================================================================================
+SESSION: 02 Jul 2025 17:36:21 -0600. Executing krita
+
+Krita Version: 5.2.9, Qt version compiled: 5.15.16, loaded: 5.15.17. Process ID: 524778
+-- -- -- -- -- -- -- --
+02 Jul 2025 17:36:21 -0600: Style: fusion. Available styles: kvantum-dark, kvantum, qt5ct-style, Windows, Fusion
+02 Jul 2025 17:36:21 -0600: Database is up to date. Version: 0.0.17, created by Krita 5.2.9, at Wed Jul 2 17:31:02 2025
+02 Jul 2025 17:36:52 -0600: Created image "Unnamed", 2480 * 3508 pixels, 300 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+02 Jul 2025 18:14:13 -0600: CLOSING SESSION
+================================================================================
+SESSION: 03 Jul 2025 00:44:47 -0600. Executing krita
+
+Krita Version: 5.2.9, Qt version compiled: 5.15.16, loaded: 5.15.17. Process ID: 1037398
+-- -- -- -- -- -- -- --
+03 Jul 2025 00:44:47 -0600: Style: fusion. Available styles: kvantum-dark, kvantum, qt5ct-style, Windows, Fusion
+03 Jul 2025 00:44:48 -0600: Database is up to date. Version: 0.0.17, created by Krita 5.2.9, at Wed Jul 2 17:31:02 2025
+03 Jul 2025 00:45:08 -0600: CLOSING SESSION
+================================================================================
+SESSION: 22 Jul 2025 19:13:15 -0600. Executing krita
+
+Krita Version: 5.2.11, Qt version compiled: 5.15.17, loaded: 5.15.17. Process ID: 518605
+-- -- -- -- -- -- -- --
+22 Jul 2025 19:13:15 -0600: Style: fusion. Available styles: kvantum-dark, kvantum, qt5ct-style, Windows, Fusion
+22 Jul 2025 19:13:16 -0600: Database is up to date. Version: 0.0.17, created by Krita 5.2.9, at Wed Jul 2 17:31:02 2025
+22 Jul 2025 19:13:37 -0600: Created image "Unnamed", 2480 * 3508 pixels, 300 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+22 Jul 2025 19:32:31 -0600: CLOSING SESSION

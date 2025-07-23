@@ -1,0 +1,260 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "CaskaydiaCove Nerd Font";
+    font-weight: bold;
+    font-size: 10px;
+    min-height: 10px;
+}
+
+@import "theme.css";
+
+window#waybar {
+    background: @bar-bg;
+}
+
+tooltip {
+    background: @main-bg;
+    color: @main-fg;
+    border-radius: 7px;
+    border-width: 0px;
+}
+
+#workspaces button {
+    box-shadow: none;
+	text-shadow: none;
+    padding: 0px;
+    border-radius: 9px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-right: 0px;
+    color: @main-fg;
+    animation: ws_normal 20s ease-in-out 1;
+}
+
+#workspaces button.active {
+    background: @wb-act-bg;
+    color: @wb-act-fg;
+    margin-left: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-right: 3px;
+    animation: ws_active 20s ease-in-out 1;
+    transition: all 0.4s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#workspaces button:hover {
+    background: @wb-hvr-bg;
+    color: @wb-hvr-fg;
+    animation: ws_hover 20s ease-in-out 1;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#taskbar button {
+    box-shadow: none;
+	text-shadow: none;
+    padding: 0px;
+    border-radius: 9px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-right: 0px;
+    color: @wb-color;
+    animation: tb_normal 20s ease-in-out 1;
+}
+
+#taskbar button.active {
+    background: @wb-act-bg;
+    color: @wb-act-color;
+    margin-left: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-right: 3px;
+    animation: tb_active 20s ease-in-out 1;
+    transition: all 0.4s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#taskbar button:hover {
+    background: @wb-hvr-bg;
+    color: @wb-hvr-color;
+    animation: tb_hover 20s ease-in-out 1;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
+#tray menu * {
+    min-height: 16px
+}
+
+#tray menu separator {
+    min-height: 10px
+}
+
+#backlight,
+#battery,
+#bluetooth,
+#custom-cliphist,
+#clock,
+#custom-cpuinfo,
+#cpu,
+#custom-cava,
+#custom-weather,
+#custom-github_hyprdots,
+#custom-gpuinfo,
+#idle_inhibitor,
+#custom-keybindhint,
+#language,
+#memory,
+#mpris,
+#network,
+#custom-notifications,
+#custom-power,
+#privacy,
+#pulseaudio,
+#custom-spotify,
+#taskbar,
+#custom-theme,
+#tray,
+#custom-updates,
+#custom-wallchange,
+#custom-wbar,
+#window,
+#workspaces,
+#custom-l_end,
+#custom-r_end,
+#custom-sl_end,
+#custom-sr_end,
+#custom-rl_end,
+#custom-rr_end {
+    color: @main-fg;
+    background: @main-bg;
+    opacity: 1;
+    margin: 4px 0px 4px 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#workspaces,
+#taskbar {
+    padding: 0px;
+}
+
+#custom-r_end {
+    border-radius: 0px 21px 21px 0px;
+    margin-right: 9px;
+    padding-right: 3px;
+}
+
+#custom-l_end {
+    border-radius: 21px 0px 0px 21px;
+    margin-left: 9px;
+    padding-left: 3px;
+}
+
+#custom-sr_end {
+    border-radius: 0px;
+    margin-right: 9px;
+    padding-right: 3px;
+}
+
+#custom-sl_end {
+    border-radius: 0px;
+    margin-left: 9px;
+    padding-left: 3px;
+}
+
+#custom-rr_end {
+    border-radius: 0px 7px 7px 0px;
+    margin-right: 9px;
+    padding-right: 3px;
+}
+
+#custom-rl_end {
+    border-radius: 7px 0px 0px 7px;
+    margin-left: 9px;
+    padding-left: 3px;
+}
+
+#custom-arch_news {
+    color: @main-fg;
+    background: alpha(@main-bg, 1);
+    padding: 0px;
+    border-radius: 0px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+    padding-left: 1px;
+    padding-right: 12px;
+    margin-right: 0px;
+}
+
+#custom-weather.sun {
+  color: #f9e2af;
+}
+#custom-weather.cloud {
+  color: #cdd6f4;
+}
+#custom-weather.rain {
+  color: #89b4fa;
+}
+#custom-weather.snow {
+  color: #94e2d5;
+}
+#custom-weather.thunder {
+  color: #f38ba8;
+}
+
+#custom-cpuinfo.cpu-hot {
+  color: #f38ba8; /* red */
+}
+#custom-cpuinfo.cpu-warm {
+  color: #f9e2af; /* yellow */
+}
+#custom-cpuinfo.cpu-cool {
+  color: #94e2d5; /* cyan-ish */
+}
+#custom-cpuinfo.cpu-cold {
+  color: #a6e3a1; /* green */
+}
+
+#custom-gpuinfo.gpu-hot {
+  color: #f38ba8;
+}
+#custom-gpuinfo.gpu-warm {
+  color: #f9e2af;
+}
+#custom-gpuinfo.gpu-cool {
+  color: #94e2d5;
+}
+#custom-gpuinfo.gpu-cold {
+  color: #a6e3a1;
+}
+
+
+#custom-spotify {
+  color: #a6e3a1;
+}
+
+#cpu.c,
+#memory.c {
+  color: #f38ba8; /* red - critical */
+}
+
+#cpu.h,
+#memory.h {
+  color: #f9e2af; /* yellow - high */
+}
+
+#cpu.m,
+#memory.m {
+  color: #94e2d5; /* blue/cyan - medium */
+}
+
+#cpu,
+#memory {
+  color: #a6e3a1; /* green - low/default */
+}

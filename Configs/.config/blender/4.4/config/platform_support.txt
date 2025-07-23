@@ -1,0 +1,1 @@
+{AMD/AMD Radeon RX 6800 XT (radeonsi, navi21, LLVM 20.1.6, DRM 3.63, 6.15.4-arch2-1)/4.6 (Core Profile) Mesa 25.1.4-arch1.2}=SUPPORTED

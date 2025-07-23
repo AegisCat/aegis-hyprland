@@ -1,0 +1,33 @@
+# Catppuccin Mocha (Lavender Accent) Alacritty Colors
+# Based on https://github.com/catppuccin/alacritty
+colors:
+  name: Catppuccin Mocha (Lavender)
+  author: catppuccin (modified with lavender primary)
+
+  primary:
+    background: '0x1e1e2e'  # base
+    foreground: '0xcdd6f4'  # text
+
+  normal:
+    black:   '0x45475a'  # surface1
+    red:     '0xf38ba8'  # red
+    green:   '0xa6e3a1'  # green
+    yellow:  '0xb4befe'  # yellow
+    blue:    '0xb4befe'  # 💜 lavender accent (replaces blue)
+    magenta: '0xf5c2e7'  # pink
+    cyan:    '0x94e2d5'  # teal
+    white:   '0xbac2de'  # subtext1
+
+  bright:
+    black:   '0x585b70'  # surface2
+    red:     '0xf38ba8'  # red
+    green:   '0xa6e3a1'  # green
+    yellow:  '0xb4befe' # yellow
+    blue:    '0xb4befe'  # 💜 lavender accent (replaces blue)
+    magenta: '0xf5c2e7'  # pink
+    cyan:    '0x94e2d5'  # teal
+    white:   '0xa6adc8'  # subtext0
+
+  indexed_colors:
+    - { index: 16, color: '0xfab387' }  # peach (optional accent)
+    - { index: 17, color: '0xb4befe' }  # 💜 lavender accent

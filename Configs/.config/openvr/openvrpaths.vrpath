@@ -1,0 +1,17 @@
+{
+	"config" : 
+	[
+		"/home/aegis/.local/share/Steam/config"
+	],
+	"external_drivers" : null,
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"/home/aegis/.local/share/Steam/logs"
+	],
+	"runtime" : 
+	[
+		"/home/aegis/.local/share/Steam/steamapps/common/SteamVR"
+	],
+	"version" : 1
+}

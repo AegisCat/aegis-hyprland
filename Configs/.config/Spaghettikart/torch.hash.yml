@@ -1,0 +1,595 @@
+yamls/us/banshee_boardwalk_data.yml:
+  hash: f9bb9ddbcf1017dd4f75e4950a21ca8109336372
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/banshee_boardwalk_displaylists.yml:
+  hash: 8e2bd4101badde545c8ec0097b9f3975207c2d2b
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/banshee_boardwalk_vertices.yml:
+  hash: e9d7bae66d6a7b324292f094d62e1edb208fb2dd
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/big_donut_data.yml:
+  hash: 302ca8407fd9b35cfd8242c8833658f336a4ffb1
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/big_donut_displaylists.yml:
+  hash: 225c79ae05f011f51186075cd2ee0237b42c4af7
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/big_donut_vertices.yml:
+  hash: 8197e71f75b827c4604c8064fc405d8ad75bf812
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/block_fort_data.yml:
+  hash: 6b2b6b4c3f9998d361342a7e4373992160e06047
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/block_fort_displaylists.yml:
+  hash: ec05792741a5730cd0421edae1fe78b01b7e48bb
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/block_fort_vertices.yml:
+  hash: e0e4810f12b4bc0e3789ffbc0189513fd34d76e5
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/boo_frames.yml:
+  hash: 04eccac4d1b3dbc8884528b6eae5079155dde5a4
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/bowser_kart.yml:
+  hash: 08b7c9ccb4ba46050cd8f0efcc7994a36199fe6d
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/bowsers_castle_data.yml:
+  hash: 1f4150b31c45e805a9a7ffc09c0dcadfdb6596d3
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/bowsers_castle_displaylists.yml:
+  hash: 68ce4e30b636d4d1fb6bcaef65b3e351138f105c
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/bowsers_castle_vertices.yml:
+  hash: b0eb0c59c3294c9b031286eef266193cab4f7aec
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/ceremony_data.yml:
+  hash: ab76827f29fccca38fe2cdfd8a3dc29800c34019
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/choco_mountain_data.yml:
+  hash: 517be6370171f5f71b928837f72f7c65d61d0e09
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/choco_mountain_displaylists.yml:
+  hash: 322801e80e95d3afdc92a48c644cca67fc372b2a
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/choco_mountain_vertices.yml:
+  hash: 4f3ec8d0b2a983d8f94ff06a6a6dd2c2e66beb52
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/common_data.yml:
+  hash: 58a92b11fc1da6503ea476c51f16d5b83b3cbee9
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/data_800E45C0.yml:
+  hash: a42e39b46f94b86a858b344c47b3ebcff78b6070
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/data_800E8700.yml:
+  hash: e61364f79a61479232752ff39665759d4619139d
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/startup_logo.yml:
+  hash: cf99277e65d1507df3f8ad670a8a60e408c2506a
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/data_segment2.yml:
+  hash: 652696fae0f0082cb19aa03ff5c012e0ef487d2a
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/dks_jungle_parkway_data.yml:
+  hash: 2471067be12a5a9d807b79a4c858de0de5701778
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/dks_jungle_parkway_displaylists.yml:
+  hash: 8a0192a2d130345732758eb633c6f09049a00ff1
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/dks_jungle_parkway_vertices.yml:
+  hash: 5758f34c6b34df1f9059fef86b9501b7fee51cf2
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/donkeykong_kart.yml:
+  hash: cdcfad1cf1072be8f3bdca3737dabd6f403a1881
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/double_deck_data.yml:
+  hash: e48020a56be997f6f588addb0d8fa09b09b98f37
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/double_deck_displaylists.yml:
+  hash: 6cd427dddf06d269820568e746f30ca269e971b8
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/double_deck_vertices.yml:
+  hash: 1711ad3a187867b360635cd68fa6e04105aa897b
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/frappe_snowland_data.yml:
+  hash: 41ab16fd182dcba31eaa9482508090ced1b3051c
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/frappe_snowland_displaylists.yml:
+  hash: 80ca70a0bb106a6302f3971c90edd26721e5fe59
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/frappe_snowland_vertices.yml:
+  hash: ece2cfe9616908c32b2066412623e720a95620e5
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/kalimari_desert_data.yml:
+  hash: ae387c624dae7645f79778782f7ac60f4d121a30
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/kalimari_desert_displaylists.yml:
+  hash: 4df66dfde4f6270930fe972f57a2cada9cd1a84a
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/kalimari_desert_vertices.yml:
+  hash: 5f4365a7433acaf368a59633ed179844bc2d9e37
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/koopa_troopa_beach_data.yml:
+  hash: 50cbe077624ef85fbc852fdaa5c15880f825c4a4
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/koopa_troopa_beach_displaylists.yml:
+  hash: 9494c9c0c1524cb4c552d18c2ba8fbf89db5c45c
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/koopa_troopa_beach_vertices.yml:
+  hash: ecbc98b60cbcace4bdf87d5ba0fd172cfaa48550
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/luigi_kart.yml:
+  hash: 2e94154d17cf494a3436c1d60315bf2f4f9bf2d3
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/luigi_raceway_data.yml:
+  hash: 60a8206b42179975c9a48feb5fea0096dd389011
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/luigi_raceway_displaylists.yml:
+  hash: 0800a590b976d08bc5b939a89e13dfd417d8e577
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/luigi_raceway_vertices.yml:
+  hash: 385d911ef76443e77053b76721e84e2b76e1af6c
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/mario_kart.yml:
+  hash: f512c443d86a6c8a71b3635ec51923e642c2e6cf
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/mario_raceway_data.yml:
+  hash: 336f13f761c91a8ff09ce7b7ec566288846daf30
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/mario_raceway_displaylists.yml:
+  hash: 51d9a019891bcb7c41a8af97ffb0edc8f0c17f94
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/mario_raceway_vertices.yml:
+  hash: 7c363afcc4eedb53968202e5306d4ede9f8a81f9
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/moo_moo_farm_data.yml:
+  hash: 4ee30c3ba0b3c0e0d010c9b8cdc97698b75bc84f
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/moo_moo_farm_displaylists.yml:
+  hash: 202858b1e574aa0f83df38a5413178ee44c44af1
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/moo_moo_farm_vertices.yml:
+  hash: a0c07acb10c81f0c09b17a16227b5562fda73b54
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/other_textures.yml:
+  hash: 4265f4aad7abc4ef61bcee327884776485ae3731
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/peach_kart.yml:
+  hash: 8b44152e4560e114f9edad452c6520cde07a87c7
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/player_selection.yml:
+  hash: 77643d7cbaf0642d14ec9a8c015471737033b765
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/rainbow_road_data.yml:
+  hash: 7a00ce8f2fa8fcdb83b9ba184f39e8983d7fa211
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/rainbow_road_displaylists.yml:
+  hash: 3e64b115e7bfe89084d94057feb44da554880857
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/rainbow_road_vertices.yml:
+  hash: 96a34e6a2797b0ee1f8e7ae42ff6e53b371420e2
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/royal_raceway_data.yml:
+  hash: a5d7604108e89beec5f9345a6025017a259fb97c
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/royal_raceway_displaylists.yml:
+  hash: 3fcf2ae4eb954cdb49a7464982fb9c4056d91ae8
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/royal_raceway_vertices.yml:
+  hash: fba408dd07d57c258975c0ec78887d020a0a329e
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sherbet_land_data.yml:
+  hash: 2cb55fc0a81787de65a3395da7aabd7b411f28ac
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sherbet_land_displaylists.yml:
+  hash: c65ac7a1e6d951c8336dc7014cfca8da1c9563fe
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sherbet_land_vertices.yml:
+  hash: 1455401451eac6bc44f802e2143bde0e33fdd7a8
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/skyscraper_data.yml:
+  hash: 18f92039b89740cbce1006a90b742895d673a983
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/skyscraper_displaylists.yml:
+  hash: 576463208167eea39857b68af1e700b5ad95b92a
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/skyscraper_vertices.yml:
+  hash: 9c3d266115fed713770a563e1f1f79741aabb665
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/some_data.yml:
+  hash: 072a0ecbe10933ac88e6c8a12082cdf5dcbde0f8
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sound/root.yml:
+  hash: c0601336270a526e1853d474ce6e543792d99307
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sound/samples.yml:
+  hash: ddd675d5aec20e70ad07e84df9855a77e5abf002
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sound/banks.yml:
+  hash: 7f94d4209e80d2c436969375fc477435c59e0d6b
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/sound/sequences.yml:
+  hash: 162e6bae01bcde0697236dcab072a56e7185283b
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/texture_data_2.yml:
+  hash: 3eb9573ace9278814140b3a37db633bc2fff34c8
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/texture_tkmk00.yml:
+  hash: 2a01880f87df9c5b712aeef2028fdc66024b12b5
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/toad_kart.yml:
+  hash: a198495c7559d047386b1a0b9ebe885bfa0d20bd
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/toads_turnpike_data.yml:
+  hash: 0a22a8f9a6edeb5ccce340c86e15b37bf67a5403
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/toads_turnpike_displaylists.yml:
+  hash: a71b216040c74e8eb88aefdc2fc92084a8e2162b
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/toads_turnpike_offsets.yml:
+  hash: 2c313edb8f6513edb83d8319fac02dc6f8afa692
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/toads_turnpike_vertices.yml:
+  hash: f47f755e902274d95a3e59ad1455e8c15a0b8216
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/wario_kart.yml:
+  hash: f8773f30b2454223ec089e0d87d4b94b2466cbd4
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/wario_stadium_data.yml:
+  hash: 4291d05dc831bd565981d73e27309453c64a4e41
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/wario_stadium_displaylists.yml:
+  hash: 4ff1a1d2aeaba4abc21c153410acf506cb5f5f61
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/wario_stadium_vertices.yml:
+  hash: 28cd6bf5b175dc9f28cc8efe9238097d5ce476f5
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/yoshi_kart.yml:
+  hash: f829465ace708c7ab75da14947c38a0be764742e
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/yoshi_valley_data.yml:
+  hash: 436ce3d192cdb861a29fa8aefc0139d32ac279a7
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/yoshi_valley_displaylists.yml:
+  hash: f25d2d3137306fdd0854aa5b48a364d78b69bf38
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false
+yamls/us/yoshi_valley_vertices.yml:
+  hash: f13588b1341e51016f9d8c270c93dc68325111fd
+  extracted:
+    Header: false
+    Code: false
+    Binary: false
+    Modding: false

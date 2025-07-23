@@ -1,0 +1,10 @@
+[ExtractDialog]
+3440x1440 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/,$HOME/Downloads/Telegram Desktop/,$HOME/Documents/x-changelife/,$HOME/Documents/,$HOME/Documents/ootmm/,$HOME/,$HOME/Documents/3DXChat/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

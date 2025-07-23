@@ -1,0 +1,60 @@
+[22:43:52.992] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_0
+[22:43:52.994] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_2
+[22:43:52.995] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_20
+[22:43:52.996] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_5
+[22:43:52.996] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_1
+[22:43:52.997] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_4
+[22:43:52.998] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_7
+[22:43:52.998] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_12
+[22:43:52.998] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_14
+[22:43:52.999] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_16
+[22:43:52.999] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_10
+[22:43:52.999] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_13
+[22:43:52.999] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_3
+[22:43:53.000] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_11
+[22:43:53.000] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_15
+[22:43:53.000] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_17
+[22:43:53.000] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_9
+[22:43:53.001] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_19
+[22:43:53.001] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_6
+[22:43:53.001] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_8
+[22:43:53.001] [Engine.cpp:524] [info] Loaded bank: sound/banks/bank_18
+[22:43:53.001] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/start_grid_gp_vs
+[22:43:53.002] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/staff_roll
+[22:43:53.002] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/toads_turnpike
+[22:43:53.002] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/losing_results
+[22:43:53.003] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/kalimari_desert
+[22:43:53.003] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/dk_jungle
+[22:43:53.003] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/finish_2nd_4th_place
+[22:43:53.003] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/final_lap_fanfare
+[22:43:53.004] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/raceways_wario_stadium
+[22:43:53.004] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/moo_moo_farm_yoshi_valley
+[22:43:53.005] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/seq_00
+[22:43:53.005] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/award_ceremony_buildup
+[22:43:53.005] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/title_screen
+[22:43:53.005] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/finish_1st_place
+[22:43:53.005] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/finish_5th_8th_place
+[22:43:53.006] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/vs_battle_results
+[22:43:53.006] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/koopa_troopa_beach
+[22:43:53.007] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/frappe_snowland
+[22:43:53.007] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/seq_16
+[22:43:53.007] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/start_gird_time_attack
+[22:43:53.008] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/banshee_boardwalk
+[22:43:53.008] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/award_ceremony_1st_3rd
+[22:43:53.008] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/battle_arenas
+[22:43:53.009] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/main_menu
+[22:43:53.009] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/game_over
+[22:43:53.009] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/award_ceremony_4th_8th
+[22:43:53.010] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/bowsers_castle
+[22:43:53.010] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/star_jingle
+[22:43:53.010] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/rainbow_road
+[22:43:53.011] [Engine.cpp:531] [info] Loaded sequence: sound/sequences/choco_mountain
+[22:43:53.011] [Engine.cpp:537] [info] Audio thread started
+[22:43:53.022] [os.cpp:23] [error] Failed add SDL game controller mappings from "./gamecontrollerdb.txt" (Couldn't open ./gamecontrollerdb.txt: No such file or directory)
+[22:44:15.800] [code_800029B0.c:184] [debug] Setup Race!
+[22:45:06.833] [code_800029B0.c:184] [debug] Setup Race!
+[22:45:53.814] [code_800029B0.c:184] [debug] Setup Race!
+[22:46:27.910] [code_800029B0.c:184] [debug] Setup Race!
+[22:50:26.296] [Fast3dWindow.cpp:47] [debug] destruct fast3dwindow
+[22:50:26.315] [Window.cpp:30] [debug] destruct window
+[22:50:26.315] [ResourceManager.cpp:65] [info] destruct ResourceManager

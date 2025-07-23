@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/aegis/Videos/m2-res_480p.mp4" added="2025-07-20T22:12:46.433639Z" modified="2025-07-20T22:12:49.283605Z" visited="2025-07-20T22:12:46.433640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-20T22:12:46.714241Z" count="2"/>
+          <bookmark:application name="vesktop" exec="&apos;vesktop %u&apos;" modified="2025-07-20T22:12:49.283603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/gmloader_c616c.zip" added="2025-07-21T04:41:38.196891Z" modified="2025-07-21T04:42:39.980067Z" visited="2025-07-21T04:41:38.196892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T04:42:39.980065Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/data_68142.zip" added="2025-07-21T04:43:49.122066Z" modified="2025-07-21T04:43:49.408819Z" visited="2025-07-21T04:43:49.122066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T04:43:49.408817Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/macos11+_bin_universal.zip" added="2025-07-21T04:45:47.495052Z" modified="2025-07-21T04:45:49.132322Z" visited="2025-07-21T04:45:47.495052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T04:45:49.132321Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/linuxGTK3_bin_x86_64.zip" added="2025-07-21T04:45:51.733487Z" modified="2025-07-21T04:45:52.010222Z" visited="2025-07-21T04:45:51.733488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T04:45:52.010218Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/Slot%20D_X-Change%20Life%E2%84%A2.xcs" added="2025-07-21T05:32:05.016951Z" modified="2025-07-21T05:32:48.346530Z" visited="2025-07-21T05:32:05.016952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T05:32:48.346526Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Documents/NexusMods/NexusMods.App.x86_64.AppImage" added="2025-07-21T06:11:55.056945Z" modified="2025-07-21T06:12:16.351000Z" visited="2025-07-21T06:12:16.351000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T06:12:04.428832Z" count="2"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-07-21T06:12:16.351000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis" added="2025-07-21T07:28:07.219992Z" modified="2025-07-23T02:06:09.491794Z" visited="2025-07-21T07:28:07.219993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-07-23T02:06:09.491792Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2025-07-21T07:38:13.392651Z" modified="2025-07-23T02:05:45.589668Z" visited="2025-07-21T07:38:13.392652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-07-23T02:05:45.589667Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Documents/basic.ini" added="2025-07-21T07:40:27.159000Z" modified="2025-07-21T07:40:27.159000Z" visited="2025-07-21T07:40:27.159000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="vim" exec="vim %f" modified="2025-07-21T07:40:27.159000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Documents/pstreampass" added="2025-07-21T07:40:53.507000Z" modified="2025-07-21T07:40:53.507000Z" visited="2025-07-21T07:40:53.507000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="vim" exec="vim %f" modified="2025-07-21T07:40:53.507000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Documents/desktop.ini" added="2025-07-21T07:42:48.138000Z" modified="2025-07-21T07:42:48.138000Z" visited="2025-07-21T07:42:48.138000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="vim" exec="vim %f" modified="2025-07-21T07:42:48.138000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD" added="2025-07-21T07:43:32.355800Z" modified="2025-07-21T08:21:09.274244Z" visited="2025-07-21T07:43:32.355801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-07-21T08:21:09.274243Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/M.2_2" added="2025-07-21T07:43:37.020296Z" modified="2025-07-21T07:43:37.020299Z" visited="2025-07-21T07:43:37.020297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-07-21T07:43:37.020297Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/GameBoy%20ROMs%20Pack%20(Romspack.com).zip" added="2025-07-21T07:45:04.051046Z" modified="2025-07-21T07:49:16.603000Z" visited="2025-07-21T07:49:16.603000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:45:27.819350Z" count="2"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-21T07:49:16.603000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/NES%20ROMs%20Pack%20(Romspack.com).rar" added="2025-07-21T07:45:14.707387Z" modified="2025-07-21T07:48:39.995000Z" visited="2025-07-21T07:48:39.995000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:45:22.837028Z" count="2"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-21T07:48:39.995000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/SNES%20ROMs%20Pack%20(Romspack.com).zip" added="2025-07-21T07:45:34.420281Z" modified="2025-07-21T07:49:04.588000Z" visited="2025-07-21T07:49:04.588000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:46:11.956907Z" count="2"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-21T07:49:04.588000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/Atari%202600%20ROMs%20Pack%20(Romspack.com).zip" added="2025-07-21T07:50:10.000008Z" modified="2025-07-21T07:55:49.590000Z" visited="2025-07-21T07:55:49.590000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:50:10.290716Z" count="2"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-21T07:55:49.590000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/SegaGenesisMegaDriveRomCollectionByGhostware.zip" added="2025-07-21T07:51:03.664519Z" modified="2025-07-21T07:52:41.585031Z" visited="2025-07-21T07:51:03.664519Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:52:41.585029Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/SegaMasterSystemCollectionByGhostware.zip" added="2025-07-21T07:51:15.559157Z" modified="2025-07-21T07:51:18.686791Z" visited="2025-07-21T07:51:15.559158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T07:51:18.686789Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/SSD/Roms/SMS/20-em-1.zip" added="2025-07-21T07:52:21.731000Z" modified="2025-07-21T07:52:21.731000Z" visited="2025-07-21T07:52:21.731000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-21T07:52:21.731000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Pictures/lavender.png" added="2025-07-21T08:03:13.446369Z" modified="2025-07-21T08:03:13.724632Z" visited="2025-07-21T08:03:13.446370Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-21T08:03:13.724630Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Documents/x-changelife/modded/X-Change%20Life.html" added="2025-07-21T23:40:47.989000Z" modified="2025-07-23T00:23:30.863000Z" visited="2025-07-23T00:23:30.863000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-07-23T00:23:30.863000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Videos/m2-res_500p.mp4" added="2025-07-22T01:14:20.855150Z" modified="2025-07-22T01:14:24.928459Z" visited="2025-07-22T01:14:20.855150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T01:14:21.148083Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-07-22T01:14:24.928458Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/M.2_2/SteamLibrary/steamapps/compatdata/1091500/pfx/drive_c/users/steamuser/Pictures/Cyberpunk%202077/photomode_21072025_215517.png" added="2025-07-22T03:56:12.619162Z" modified="2025-07-22T18:47:27.915447Z" visited="2025-07-22T03:56:12.619164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-07-22T18:47:27.915446Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/%5BNSFW%20lab%5D%20Tentacle%20Seedbed%20Oviposition.rar" added="2025-07-22T05:48:10.540051Z" modified="2025-07-22T05:48:10.810480Z" visited="2025-07-22T05:48:10.540052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T05:48:10.810477Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads" added="2025-07-22T05:48:16.506000Z" modified="2025-07-22T05:50:52.207000Z" visited="2025-07-22T05:50:52.207000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2025-07-22T05:50:52.207000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/RueMama.zip" added="2025-07-22T05:50:45.177379Z" modified="2025-07-22T05:50:45.448944Z" visited="2025-07-22T05:50:45.177380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T05:50:45.448942Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/Solona&apos;s%20Sweetheart%20Rue%20Pregnancy.ttmp2" added="2025-07-22T05:52:36.372947Z" modified="2025-07-22T05:52:36.656756Z" visited="2025-07-22T05:52:36.372947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T05:52:36.656754Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/Sanguine%20Romance%20for%20Rue%20Mama%209%20Months.pmp" added="2025-07-22T05:54:07.331944Z" modified="2025-07-22T05:54:07.609177Z" visited="2025-07-22T05:54:07.331944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T05:54:07.609173Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Downloads/Sanguine_Romance.ttmp2" added="2025-07-22T05:54:37.026547Z" modified="2025-07-22T05:54:37.303937Z" visited="2025-07-22T05:54:37.026547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-22T05:54:37.303935Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Videos/2025-07-22%2019-19-08.mkv" added="2025-07-23T01:20:16.765286Z" modified="2025-07-23T01:20:32.468324Z" visited="2025-07-23T01:20:16.765287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-07-23T01:20:32.468323Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Videos/2025-07-22%2019-19-08.mp4" added="2025-07-23T01:20:39.235960Z" modified="2025-07-23T01:20:39.241137Z" visited="2025-07-23T01:20:39.235961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-07-23T01:20:39.241135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aegis/Backups" added="2025-07-23T02:11:37.435000Z" modified="2025-07-23T02:11:37.435000Z" visited="2025-07-23T02:11:37.435000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-07-23T02:11:37.435000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

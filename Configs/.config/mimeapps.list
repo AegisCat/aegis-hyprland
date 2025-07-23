@@ -1,0 +1,12 @@
+
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/discord-409416265891971072=discord-409416265891971072.desktop
+x-scheme-handler/ror2mm=r2modman.desktop
+x-scheme-handler/nxm=com.nexusmods.app.desktop
+text/html=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/about=firefox.desktop
+x-scheme-handler/unknown=firefox.desktop

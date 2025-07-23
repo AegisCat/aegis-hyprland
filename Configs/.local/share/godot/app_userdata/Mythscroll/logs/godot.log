@@ -1,0 +1,789 @@
+Godot Engine v4.4.stable.official.4c311cbee - https://godotengine.org
+OpenGL API 4.6 (Core Profile) Mesa 25.1.4-arch1.2 - Compatibility - Using Device: AMD - AMD Radeon RX 6800 XT (radeonsi, navi21, LLVM 20.1.6, DRM 3.63, 6.15.4-arch2-1)
+
+No save data
+No save data
+Globals saved
+Map updated, no current location
+Instantly traveled to:(391.0, 592.0)
+1 Bronze Sword added to inventory
+Bronze Sword equipped.1
+1 Bronze Armor added to inventory
+Bronze Armor equipped.1
+1 Bronze Boots added to inventory
+Bronze Boots equipped.1
+Character Weight:115.0
+Kristen saved
+current coords: (391.0, 592.0)
+Globals saved
+No locations, current location set to saved location: Merchant Port
+Creature level: 5 Char Level: 1
+Now in:["Merchant Port"]
+Map updated, current location: Merchant Port
+UPDATE BACKGROUND TO: Merchant Port
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Globals saved
+Stat:stealth | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:4.15031090378761
+Stat:luck | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:17.0913234353065
+luck check failed
+stealth check failed
+Stat:luck | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:78.7751197814941
+luck check failed
+No encounter type found
+Health change: 20 health | Current health total: 30
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Encounter triggered: none
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Creature not attacking. Attack chance: 0
+["Basic Wait Creature Encounter"]
+LEVEL SET TO: 8
+New Creature Discovered: Commoner
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+No stat check
+No stat check
+KEYS:["Ignore the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Wait Creature Encounter
+Creature Name: Commoner
+Option Keys: ["Ignore the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:6
+Success Chance:70.0% | Roll:5.10011352598667
+charisma check succeeded
+Checking for level up. Current level:1 XP:5 XP needed:60
+XP change: 5XP | Current XP total: 5
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+No stat check
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:0
+Encounter Name: Basic Wait Creature Encounter
+Creature Name: Commoner
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 1
+Selected Option: Disengage from the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Map updated, current location: Merchant Port
+Map updated, current location: Merchant Port
+Map updated, current location: Merchant Port
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Merchant Port
+Travel Speed:5 Character speed: 1
+Map updated, current location: Merchant Port
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 15
+New Creature Discovered: Priest
+Kristen saved
+current coords: (401.0972, 590.0964)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (401.0972, 590.0964)
+Game saved!
+Kristen saved
+current coords: (401.0972, 590.0964)
+Game saved!
+No stat check
+No stat check
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Priest
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:7
+Success Chance:55.0% | Roll:94.1553056240082
+Stat:luck | Player Stat:0 | Check Level:7
+Success Chance:2.0% | Roll:44.2181587219238
+luck check failed
+charisma check failed
+Kristen saved
+current coords: (401.0972, 590.0964)
+Game saved!
+Encounter ended
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Merchant Port
+Travel Speed:5 Character speed: 1
+Map updated, current location: Merchant Port
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 14
+New Creature Discovered: Druid
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Druid
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:7
+Success Chance:55.0% | Roll:8.95856618881226
+charisma check succeeded
+Checking for level up. Current level:1 XP:12 XP needed:60
+XP change: 7XP | Current XP total: 12
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+No stat check
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:0
+Encounter Name: Basic Creature Encounter
+Creature Name: Druid
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 1
+Selected Option: Disengage from the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Merchant Port
+Travel Speed:5 Character speed: 1
+Now in:["Merchant Port", "Rocky Path"]
+Map updated, current location: Rocky Path
+Checking for level up. Current level:1 XP:27 XP needed:60
+XP change: 15XP | Current XP total: 27
+Kristen saved
+current coords: (408.6328, 588.6758)
+Game saved!
+Location Discovered: Rocky Path - XP Gained: 15
+UPDATE BACKGROUND TO: Rocky Path
+Now in:["Merchant Port", "Rocky Path", "Springdance Plains"]
+Map updated, current location: Rocky Path
+UPDATE BACKGROUND TO: Rocky Path
+Map updated, current location: Rocky Path
+No encounter type found
+Encounter triggered: none
+Kristen saved
+current coords: (420.5171, 586.4353)
+Game saved!
+Kristen saved
+current coords: (420.5171, 586.4353)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+UPDATE BACKGROUND TO: Rocky Path
+Map updated, current location: Rocky Path
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 9
+New Creature Discovered: Knight
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Path Creature Encounter
+Creature Name: Knight
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:6
+Success Chance:70.0% | Roll:47.2102612257004
+charisma check succeeded
+Checking for level up. Current level:1 XP:32 XP needed:60
+XP change: 5XP | Current XP total: 32
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+No stat check
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:0
+Encounter Name: Basic Path Creature Encounter
+Creature Name: Knight
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 1
+Selected Option: Disengage from the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Kristen saved
+current coords: (433.6523, 583.959)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+["Apple Tree", "Poisonous Apple Tree", "Berry Plant", "Poisonous Berry Plant", "Buried Item", "Wooden Chest", "Helpful Runed Rock", "Harmful Runed Rock", "Helpful Runed Tree", "Harmful Runed Tree", "Flock of Birds", "Lost Traveler", "Hidden Shrine", "Creature Tracks", "Signpost", "Abandoned Campsite", "Abandoned Wagon", "Flower Field", "Honeybee Hive", "Fairy Ring", "Lost Spirit"]
+LEVEL SET TO: 7
+Encounter triggered: environment
+Kristen saved
+current coords: (446.9365, 581.4546)
+Game saved!
+Kristen saved
+current coords: (446.9365, 581.4546)
+Game saved!
+KEYS:["Ignore the tracks", "Try to identify the tracks", "Follow the tracks"]
+SELECTED INDEX:2
+Encounter Name: Creature Tracks
+Option Keys: ["Ignore the tracks", "Try to identify the tracks", "Follow the tracks"]
+Selected Index: 3
+Selected Option: Follow the tracks
+In Enviro Encounter
+Follow the tracks
+Stat:nature | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:32.8413277864456
+Stat:luck | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:68.623548746109
+luck check failed
+nature check failed
+Kristen saved
+current coords: (446.9365, 581.4546)
+Game saved!
+Encounter ended
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 8
+Encounter triggered: creature
+Kristen saved
+current coords: (453.9658, 580.1294)
+Game saved!
+Kristen saved
+current coords: (453.9658, 580.1294)
+Game saved!
+No stat check
+No stat check
+No stat check
+No stat check
+No stat check
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Commoner
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:6
+Success Chance:70.0% | Roll:47.6734101772308
+charisma check succeeded
+Checking for level up. Current level:1 XP:37 XP needed:60
+XP change: 5XP | Current XP total: 37
+Kristen saved
+current coords: (453.9658, 580.1294)
+Game saved!
+Kristen saved
+current coords: (453.9658, 580.1294)
+Game saved!
+No stat check
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:0
+Encounter Name: Basic Creature Encounter
+Creature Name: Commoner
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 1
+Selected Option: Disengage from the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Kristen saved
+current coords: (453.9658, 580.1294)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+No encounter type found
+Encounter triggered: none
+Kristen saved
+current coords: (465.4629, 577.9619)
+Game saved!
+Kristen saved
+current coords: (465.4629, 577.9619)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+["Apple Tree", "Poisonous Apple Tree", "Berry Plant", "Poisonous Berry Plant", "Buried Item", "Wooden Chest", "Helpful Runed Rock", "Harmful Runed Rock", "Helpful Runed Tree", "Harmful Runed Tree", "Flock of Birds", "Lost Traveler", "Hidden Shrine", "Creature Tracks", "Signpost", "Abandoned Campsite", "Abandoned Wagon", "Flower Field", "Honeybee Hive", "Fairy Ring", "Lost Spirit"]
+LEVEL SET TO: 7
+Encounter triggered: environment
+Kristen saved
+current coords: (472.79, 576.5806)
+Game saved!
+Kristen saved
+current coords: (472.79, 576.5806)
+Game saved!
+No stat check
+No stat check
+No stat check
+KEYS:["Ignore it and continue on", "Try to open it"]
+SELECTED INDEX:1
+Encounter Name: Wooden Chest
+Option Keys: ["Ignore it and continue on", "Try to open it"]
+Selected Index: 2
+Selected Option: Try to open it
+In Enviro Encounter
+Try to open it
+Stat:luck | Player Stat:0 | Check Level:9
+Success Chance:2.0% | Roll:27.8751403093338
+luck check failed
+Stat:luck | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:48.3808577060699
+luck check failed
+Stat:luck | Player Stat:0 | Check Level:9
+Success Chance:2.0% | Roll:18.5220524668694
+luck check failed
+Stat:luck | Player Stat:0 | Check Level:6
+Success Chance:2.0% | Roll:63.1813883781433
+luck check failed
+505.0
+Gold change: -5g | Current gold total: 45
+Kristen saved
+current coords: (472.79, 576.5806)
+Game saved!
+Kristen saved
+current coords: (472.79, 576.5806)
+Game saved!
+Encounter ended
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+Creature not attacking. Attack chance: 20
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 10
+New Creature Discovered: Elf
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Path Creature Encounter
+Creature Name: Elf
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature attacking! Attack chance: 20
+Stat:charisma | Player Stat:5 | Check Level:6
+Success Chance:70.0% | Roll:2.79803685843945
+charisma check succeeded
+Checking for level up. Current level:1 XP:42 XP needed:60
+XP change: 5XP | Current XP total: 42
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+No stat check
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:0
+Encounter Name: Basic Path Creature Encounter
+Creature Name: Elf
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 1
+Selected Option: Disengage from the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 20
+Kristen saved
+current coords: (483.0361, 574.6489)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 5
+Creature level: 5 Char Level: 1
+New Creature Discovered: Will-o-Wisp
+Kristen saved
+current coords: (494.2056, 572.5432)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (494.2056, 572.5432)
+Game saved!
+Kristen saved
+current coords: (494.2056, 572.5432)
+Game saved!
+No stat check
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Path Creature Encounter
+Creature Name: Will-o-Wisp
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Creature level: 5 Char Level: 1
+Kristen saved
+current coords: (494.2056, 572.5432)
+Game saved!
+Encounter ended
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+["Apple Tree", "Poisonous Apple Tree", "Berry Plant", "Poisonous Berry Plant", "Buried Item", "Wooden Chest", "Helpful Runed Rock", "Harmful Runed Rock", "Helpful Runed Tree", "Harmful Runed Tree", "Flock of Birds", "Lost Traveler", "Hidden Shrine", "Creature Tracks", "Signpost", "Abandoned Campsite", "Abandoned Wagon", "Flower Field", "Honeybee Hive", "Fairy Ring", "Lost Spirit"]
+LEVEL SET TO: 7
+Encounter triggered: environment
+Kristen saved
+current coords: (508.6812, 569.8142)
+Game saved!
+Kristen saved
+current coords: (508.6812, 569.8142)
+Game saved!
+No stat check
+No stat check
+No stat check
+No stat check
+No stat check
+KEYS:["Ignore them", "Give them directions", "Demand payment before helping them", "Give them wrong directions"]
+SELECTED INDEX:1
+Encounter Name: Lost Traveler
+Option Keys: ["Ignore them", "Give them directions", "Demand payment before helping them", "Give them wrong directions"]
+Selected Index: 2
+Selected Option: Give them directions
+In Enviro Encounter
+Give them directions
+Morality change: 5 morality | Current morality total: 55
+Kristen saved
+current coords: (508.6812, 569.8142)
+Game saved!
+Kristen saved
+current coords: (508.6812, 569.8142)
+Game saved!
+Carry Weight: 50.0 Carry Capacity: 250
+Map updated, current location: Rocky Path
+Travel Speed:5 Character speed: 1
+Map updated, current location: Rocky Path
+Creature not attacking. Attack chance: 0
+["Basic Creature Encounter", "Basic Path Creature Encounter"]
+LEVEL SET TO: 14
+New Creature Discovered: Bandit
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Encounter triggered: creature
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+No stat check
+KEYS:["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Walk past the %s", "Talk to the %s", "Attack the %s", "Run from the %s"]
+Selected Index: 2
+Selected Option: Talk to the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Stat:charisma | Player Stat:5 | Check Level:7
+Success Chance:55.0% | Roll:27.5290280580521
+charisma check succeeded
+Checking for level up. Current level:1 XP:49 XP needed:60
+XP change: 7XP | Current XP total: 49
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+KEYS:["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+SELECTED INDEX:2
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Disengage from the %s", "Try to convince the %s to give you something", "Threaten the %s for something"]
+Selected Index: 3
+Selected Option: Threaten the %s for something
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Morality change: -5 morality | Current morality total: 50
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Morality change: -5 morality | Current morality total: 45
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Stat:strength | Player Stat:5 | Check Level:7
+Success Chance:55.0% | Roll:96.1105048656464
+Stat:luck | Player Stat:0 | Check Level:7
+Success Chance:2.0% | Roll:85.0629687309265
+luck check failed
+strength check failed
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+No stat check
+No stat check
+No stat check
+KEYS:["Let the %s go", "Attack the %s"]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Let the %s go", "Attack the %s"]
+Selected Index: 2
+Selected Option: Attack the %s
+In Creature Encounter
+Creature not attacking. Attack chance: 0
+Morality change: -10 morality | Current morality total: 35
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Creature: { "Bandit": "creature_type", "locations": ["Springdance Plains", "Feywood Forest", "Capital City Outskirts", "Ashen Desert", "Frostfang Tundra", "Cursed Swamp", "Bloodwood Forest", "Ember Peaks", "Dragonspire Mountains", "Hollow Crypt", "Mirror Lake", "Rocky Path", "Crystal River (Plains)", "Crystal River (Mountains)", "Paradise Lake", "Frostfang Lake", "Void Mountain", "Forsaken Battlefield", "Ashen Ruins", "Red Tree", "Eternal Library", "Stony Creek", "Indigo Caves", "Enchanted Marshwoods", "Sunken Temple", "Blackmarsh"], "languages": ["common"], "morality_min": 20, "morality_max": 70, "attack": 5, "hp": 4, "speed": 5, "rarity": "common", "weaknesses": [], "resistances": [], "immunities": [], "allies": ["rogue"], "enemies": ["knight", "ranger", "cleric"], "pronouns": ["they", "them", "a"], "loot_table": "basic_humanoid_loot" }
+Creature Level: 14
+Max Creature HP: 56
+Current Creature HP: 56
+["Same Combat Encounter"]
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+In battle
+No stat check
+No stat check
+No stat check
+KEYS:["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+Selected Index: 2
+Selected Option: Slash the %s with your %weapon%.
+In Battle
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+No outcome set up
+selected option:Slash the %s with your %weapon%.
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+slash{ "type": "sword", "material": "bronze", "damage": 5, "damage_type": ["slash", "stab"], "weight": 4, "speed": 6, "style": "one_handed", "value": 6, "name": "Bronze Sword", "equipped": true, "quantity": 1, "equipped_count": 1 }
+Weapon damage: 5.5
+Weapon/Spell speed: 6 - Total attack speed: 3.05 - Creature speed: 5 - Hit chance: 99
+Base Creature Attack: 14
+Total Armor Defense: 22
+Light Armor Defense: 0
+Heavy Armor Defense: 22
+Armor Multiplier: 0.89
+Calculated Creature Attack: 12.0
+Player speed: 1 - Creature Speed: 50 - Creature hit chance: 95
+Health change: -11 health | Current health total: 19
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Creature ATTACKED
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+No stat check
+No stat check
+KEYS:["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+SELECTED INDEX:0
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+Selected Index: 1
+Selected Option: Stab the %s with your %weapon%.
+In Battle
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+No outcome set up
+selected option:Stab the %s with your %weapon%.
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+stab{ "type": "sword", "material": "bronze", "damage": 5, "damage_type": ["slash", "stab"], "weight": 4, "speed": 6, "style": "one_handed", "value": 6, "name": "Bronze Sword", "equipped": true, "quantity": 1, "equipped_count": 1 }
+Weapon damage: 5.5
+Weapon/Spell speed: 6 - Total attack speed: 3.05 - Creature speed: 5 - Hit chance: 99
+Strength damage boost: 0
+attr_attack_multiplier: 0 + skill_attack_multiplier: 0 + 1
+Total attack multiplier: 1
+Calculated attack: 5.5
+Damage after weaknesses/resistances applied: 5.5
+Damage after randomizer applied: 5
+Creature: { "Bandit": "creature_type", "locations": ["Springdance Plains", "Feywood Forest", "Capital City Outskirts", "Ashen Desert", "Frostfang Tundra", "Cursed Swamp", "Bloodwood Forest", "Ember Peaks", "Dragonspire Mountains", "Hollow Crypt", "Mirror Lake", "Rocky Path", "Crystal River (Plains)", "Crystal River (Mountains)", "Paradise Lake", "Frostfang Lake", "Void Mountain", "Forsaken Battlefield", "Ashen Ruins", "Red Tree", "Eternal Library", "Stony Creek", "Indigo Caves", "Enchanted Marshwoods", "Sunken Temple", "Blackmarsh"], "languages": ["common"], "morality_min": 20, "morality_max": 70, "attack": 5, "hp": 4, "speed": 5, "rarity": "common", "weaknesses": [], "resistances": [], "immunities": [], "allies": ["rogue"], "enemies": ["knight", "ranger", "cleric"], "pronouns": ["they", "them", "a"], "loot_table": "basic_humanoid_loot" }
+Creature Level: 14
+Max Creature HP: 56
+Current Creature HP: 51
+Weapon/Spell speed: 6 - Total attack speed: 3.05 - Creature speed: 5 - Follow up attack chance: 0
+Base Creature Attack: 14
+Total Armor Defense: 22
+Light Armor Defense: 0
+Heavy Armor Defense: 22
+Armor Multiplier: 0.89
+Calculated Creature Attack: 12.0
+Player speed: 1 - Creature Speed: 50 - Creature hit chance: 95
+Health change: -13 health | Current health total: 6
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Creature ATTACKED
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+No stat check
+No stat check
+KEYS:["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+SELECTED INDEX:1
+Encounter Name: Basic Creature Encounter
+Creature Name: Bandit
+Option Keys: ["Stab the %s with your %weapon%.", "Slash the %s with your %weapon%.", "Try to escape combat with the %s."]
+Selected Index: 2
+Selected Option: Slash the %s with your %weapon%.
+In Battle
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+No outcome set up
+selected option:Slash the %s with your %weapon%.
+option_data:{  }
+has_outcomes:false
+stat_check:<null>
+has text:false
+slash{ "type": "sword", "material": "bronze", "damage": 5, "damage_type": ["slash", "stab"], "weight": 4, "speed": 6, "style": "one_handed", "value": 6, "name": "Bronze Sword", "equipped": true, "quantity": 1, "equipped_count": 1 }
+Weapon damage: 5.5
+Weapon/Spell speed: 6 - Total attack speed: 3.05 - Creature speed: 5 - Hit chance: 99
+Strength damage boost: 0
+attr_attack_multiplier: 0 + skill_attack_multiplier: 0 + 1
+Total attack multiplier: 1
+Calculated attack: 5.5
+Damage after weaknesses/resistances applied: 5.5
+Damage after randomizer applied: 5
+Creature: { "Bandit": "creature_type", "locations": ["Springdance Plains", "Feywood Forest", "Capital City Outskirts", "Ashen Desert", "Frostfang Tundra", "Cursed Swamp", "Bloodwood Forest", "Ember Peaks", "Dragonspire Mountains", "Hollow Crypt", "Mirror Lake", "Rocky Path", "Crystal River (Plains)", "Crystal River (Mountains)", "Paradise Lake", "Frostfang Lake", "Void Mountain", "Forsaken Battlefield", "Ashen Ruins", "Red Tree", "Eternal Library", "Stony Creek", "Indigo Caves", "Enchanted Marshwoods", "Sunken Temple", "Blackmarsh"], "languages": ["common"], "morality_min": 20, "morality_max": 70, "attack": 5, "hp": 4, "speed": 5, "rarity": "common", "weaknesses": [], "resistances": [], "immunities": [], "allies": ["rogue"], "enemies": ["knight", "ranger", "cleric"], "pronouns": ["they", "them", "a"], "loot_table": "basic_humanoid_loot" }
+Creature Level: 14
+Max Creature HP: 56
+Current Creature HP: 46
+Weapon/Spell speed: 6 - Total attack speed: 3.05 - Creature speed: 5 - Follow up attack chance: 0
+Base Creature Attack: 14
+Total Armor Defense: 22
+Light Armor Defense: 0
+Heavy Armor Defense: 22
+Armor Multiplier: 0.89
+Calculated Creature Attack: 12.0
+Player speed: 1 - Creature Speed: 50 - Creature hit chance: 95
+Health change: -13 health | Current health total: 0
+Kristen saved
+current coords: (520.3867, 567.6074)
+Game saved!
+Player has died
+Map updated, current location: Rocky Path
+UPDATE BACKGROUND TO: Rocky Path
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Instantly traveled to:(391.0, 592.0)
+Health change: 10 health | Current health total: 10
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Gold change: -8g | Current gold total: 37
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+1 Bronze Armor removed. Remaining: 0
+Bronze Armor unequipped.
+unequip slot
+Bronze Armor completely removed from inventory
+You lost 8 gold and your Bronze Armor
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Now in:["Rocky Path", "Springdance Plains", "Merchant Port"]
+Map updated, current location: Merchant Port
+UPDATE BACKGROUND TO: Merchant Port
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+CITY ENTERED
+Kristen saved
+current coords: (391.0, 592.0)
+Game saved!
+Map updated, current location: Merchant Port
+UPDATE BACKGROUND TO: Merchant Port
+Map updated, current location: Merchant Port
+UPDATE BACKGROUND TO: Merchant Port
+No locations, current location set to saved location: Merchant Port
+UPDATE BACKGROUND TO: Merchant Port
+ERROR: 1 RID allocations of type 'N5GLES37TextureE' were leaked at exit.
+ERROR: Texture with GL ID of 153: leaked 1524 bytes.
+   at: ~Utilities (drivers/gles3/storage/utilities.cpp:77)
+ERROR: Parameter "RenderingServer::get_singleton()" is null.
+   at: ~CompressedTexture2D (scene/resources/compressed_texture.cpp:464)
