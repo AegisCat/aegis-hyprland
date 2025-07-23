@@ -32,4 +32,3 @@ I wanted to keep the old setup archived as a lot has changed since that I though
 ## Credits
 
 These dots were built upon [prasanthrangan's](https://github.com/prasanthrangan)
-work. I also may have butchered it by targetting only Catppuccin Mocha
